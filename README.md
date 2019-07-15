@@ -54,4 +54,4 @@ Now, we have successfully installed python, pip, required libraries. Base has be
 **$python3 face_and_eyes.py**
 
 Here’s the result:
-
+https://github.com/TDBTECHNO/AI_FACE/blob/master/Screenshot%20from%202019-07-15%2011-39-40.png
