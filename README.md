@@ -1,5 +1,5 @@
 AI code for Person_Detection
-Hello Micheal, I prepare a small project for you which is to detect human at real time. The main aim of the project is to detect face of a human at real time whenver the person is driving a car or a boat. We have used two model. HAAR CASCADE CLASSIFIER and SSDMOBILENET. To train and check the inference of a model, w just train it using some images and get the accurate results. Here i am explaining how to test and run it by yourself.
+Hello Micheal, I prepare a small project for you which is to detect human at real time. The main aim of the project is to detect face of a human at real time whenver the person is driving a car or a boat. We have used two model. To train and check the inference of a model, Here i am explaining how to test and run it by yourself.
 
 Python Installation for UBUNTU:
 1.Open the terminal through search box via Ctrl+Alt+T or searching for “Terminal” from app launcher. When it opens, run command to add the PPA:
@@ -55,11 +55,3 @@ Now, we have successfully installed python, pip, required libraries. Base has be
 
 Here’s the result:
 
-
-This is the demo for HAARCASCADE,
-
-For SSD:,
-
-**$cd ..**
-**$cd __pycache__**
-**$python3 code.py**
